@@ -1,0 +1,10 @@
+D:\Excel\bin\Debug\Excel.exe.config
+D:\Excel\bin\Debug\Excel.exe
+D:\Excel\bin\Debug\Excel.pdb
+D:\Excel\bin\Debug\HtmlAgilityPack.dll
+D:\Excel\bin\Debug\HtmlAgilityPack.pdb
+D:\Excel\bin\Debug\HtmlAgilityPack.xml
+D:\Excel\obj\Debug\Excel.csproj.AssemblyReference.cache
+D:\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+D:\Excel\obj\Debug\Excel.exe
+D:\Excel\obj\Debug\Excel.pdb
